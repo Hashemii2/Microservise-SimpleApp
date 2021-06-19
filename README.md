@@ -1,1 +1,1 @@
-# microsevise-simpleapp
+# Microsevise-SimpleApp
