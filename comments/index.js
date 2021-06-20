@@ -24,6 +24,6 @@ app.post("/posts/:id/comments", (req, res) => {
   res.status(201).send(comments);
 });
 
-app.listen(5000, () => {
-  console.log("listening on port 5000...");
+app.listen(4001, () => {
+  console.log("listening on port 4001...");
 });
